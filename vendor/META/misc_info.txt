@@ -1,0 +1,17 @@
+recovery_api_version=3
+fstab_version=2
+blocksize=131072
+boot_size=67108864
+recovery_size=67108864
+system_size=1585446912
+userdata_size=28538268672
+cache_size=268435456
+extfs_sparse_flag=-s
+tool_extensions=.
+default_system_dev_certificate=build/security/testkey
+use_set_metadata=1
+multistage_support=1
+update_rename_support=1
+fs_type=ext4
+selinux_fc=out/target/product/shamrock/root/file_contexts
+
