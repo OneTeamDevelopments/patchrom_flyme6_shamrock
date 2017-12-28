@@ -2313,7 +2313,7 @@
 
     .line 830
     :try_start_b
-    new-instance v92, Lcom/android/server/statusbar/StatusBarManagerService;
+    new-instance v92, Lcom/android/server/statusbar/FlymeExtStatusBarManagerService;
 
     move-object/from16 v0, v92
 
