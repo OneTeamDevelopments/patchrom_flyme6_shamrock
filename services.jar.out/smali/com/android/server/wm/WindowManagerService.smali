@@ -12743,13 +12743,13 @@
 
     move-result v3
 
-    monitor-exit v38
+    monitor-exit v39
 
     return v3
 
     :cond_flyme_0
 
-    if-eqz v34, :cond_1f
+    if-eqz v35, :cond_1f
 
     monitor-exit v39
 

@@ -4226,7 +4226,7 @@
     :goto_2b
     move-object/from16 v4, p0
 
-    move-object/from16 v5, v104
+    move-object/from16 v5, v105
 
     invoke-static {v4, v5}, Lcom/android/server/SystemServer$FlymeInjector;->addFlymeServices(Lcom/android/server/SystemServer;Lcom/android/server/wm/WindowManagerService;)V
 
